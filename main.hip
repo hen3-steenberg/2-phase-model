@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-#if
+
 
 constexpr int error_exit_code = -1;
 
